@@ -7,7 +7,7 @@ The given project was carried out as a part of 'Design and Analysis of Algorithm
 ## Usage.
 To clone this repository
 ```
-$git clone https://github.com/SKsaqlain/INTAL INTAL
+$git clone https://github.com/harshsurolia26/Intal.git
 ```
 To run the code
 ```
